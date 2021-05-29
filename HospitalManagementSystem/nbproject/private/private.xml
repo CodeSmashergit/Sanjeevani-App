@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/RegisterReceptionistFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/pojo/UserDetailsPojo.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/pojo/EmpPojo.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/dbutil/DBConnection.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/RemoveReceptionistFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/dao/EmpDao.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/AddPatientFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/RemoveDoctorFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/DoctorOptionsFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/AdminOptionsFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/pojo/DoctorPojo.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ChangePasswordFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/pojo/PatientPojo.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ViewEmployeesFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ViewAppointmentFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ManageEmployeeFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ViewDoctorsFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ManageReceptionistFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/pojo/UserProfilePojo.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/AddEmployeeFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/RemovePatientFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/SplashScreenFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ManageDoctorFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/dao/PatientDao.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/pojo/UserPojo.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/dao/UserDao.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ViewAllPatientForRecFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ViewAllPatient.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/UpdateEmployeesFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/LoginFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/dao/ReceptionistDao.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/dao/DoctorsDao.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/RemoveEmployeesFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/RegisterDoctorFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ViewRReceptionistFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/ReceptionistOptionsFrame.java</file>
+            <file>file:/F:/My%20Netbeans%20Apps/HospitalManagementSystem/src/hms/gui/UpdatePatientFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
