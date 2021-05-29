@@ -1,0 +1,30 @@
+login :-
+1. Admin
+2. Receptionist
+3. Doctor
+
+**Admin :-
+1. Manage Receptionist:-
+	Register Receptionist(for Login)
+	Change Password
+	Remove Receptionist
+	View Receptionist
+2. Manage Doctor:-
+	Register Doctor
+	Remove Doctor
+	View Doctor
+3. Manage Employees:-
+	Add Employee
+	View Employee
+	Update Employee
+	Remove Employee
+4. View Patients
+
+**Receptionist :-
+1. Add Patient(OTP Embedded)
+2. Remove Patient
+3. View Patients
+4. update Patient
+
+**Doctor :-
+1. view Appointments 
